@@ -99,7 +99,7 @@ I'm a recent AI & Data Science graduate with hands-on experience building **ML m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InfinityAyush&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityAyush&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
